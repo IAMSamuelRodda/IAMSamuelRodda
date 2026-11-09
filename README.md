@@ -8,12 +8,12 @@
 
 ## What I’m up to
 
-Currently injecting AI into local businesses. Want to help more people get up to speed and feel empowered by it.
+Injecting AI into local businesses. Helping more people get up to speed.
 
 ## Currently into
 
 - 🦞 **OpenClaw** and the tools around it
-- 🤖 **Coding agents** — working with more than one
+- 🤖 **Coding agents** — working with more than one. Mostly OpenClaw.
 - 🔧 **Open source** — connecting tools instead of rebuilding everything
 
 ## How I got here
