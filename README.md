@@ -18,27 +18,9 @@ Injecting AI into local businesses. Helping more people get up to speed.
 
 ## Current Projects
 
-### Business apps
-
 - 🚜 **[Field](https://github.com/arcforgelabs/field)** — Quotes and invoices for earthworks and landscaping.
-- 🦷 **[Flow](https://github.com/arcforgelabs/flow)** — Lab jobs and invoicing, with Seazona and Xero integrations. Work in progress.
-
-### OpenClaw integrations
-
-Unofficial connectors.
-
-- 💷 **[Xero](https://github.com/arcforgelabs/marketplace/tree/main/plugins/xero/openclaw)** — Cashflow and accounting tools for OpenClaw.
-- 🔧 **[Fergus](https://github.com/arcforgelabs/marketplace/tree/main/plugins/fergus/openclaw)** — Jobs and quotes in Fergus, through OpenClaw.
-- 📅 **[Deputy](https://github.com/arcforgelabs/marketplace/tree/main/plugins/deputy/openclaw)** — Rosters, timesheets and leave in Deputy, through OpenClaw.
-
-### Design tools
-
-- 🎨 **[Themes](https://github.com/arcforgelabs/themes)** — shadcn/ui presets, design notes and a visual explainer kit.
-
-### Personal projects
-
 - 🎙️ **[Dictate](https://github.com/arcforgelabs/dictate)** — Local-only Linux dictation. Hold a key, talk, get text.
-- 🎮 **[mcp-unreal](https://github.com/IAMSamuelRodda/mcp-unreal)** — Run Python inside Unreal Engine 5 through MCP.
+- 🦷 **[Flow](https://github.com/arcforgelabs/flow)** — Lab jobs and invoicing, with Seazona and Xero integrations. Work in progress.
 
 ## How I got here
 
