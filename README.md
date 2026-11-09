@@ -1,13 +1,22 @@
 # Hey, I'm Samuel 👋
 
-**Owner at [Arc Forge](https://arcforge.au)** · Adelaide Hills, Australia 🇦🇺
+📍 **Adelaide Hills, Australia 🇦🇺** | ⚡ **Owner at [Arc Forge](https://arcforge.au)**
+
+[![OpenClaw](https://img.shields.io/badge/-OpenClaw-E74C3C?style=flat-square)](https://github.com/openclaw/openclaw)
+[![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/codex)
+[![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)](https://github.com/anthropics/claude-code)
+
+## What I’m up to
 
 Currently injecting AI into local businesses. Want to help more people get up to speed and feel empowered by it.
 
-Mostly into OpenClaw, coding agents and connecting open-source tools.
+## Currently into
 
-<details>
-<summary>How I got here</summary>
+- 🦞 **OpenClaw** and the tools around it
+- 🤖 **Coding agents** — working with more than one
+- 🔧 **Open source** — connecting tools instead of rebuilding everything
+
+## How I got here
 
 - Studied mechanical engineering. Depressing.
 - Went into live event setups instead.
@@ -21,4 +30,6 @@ Mostly into OpenClaw, coding agents and connecting open-source tools.
 - Moved back to family.
 - Now here, building things with AI.
 
-</details>
+## Elsewhere
+
+[Arc Forge](https://arcforge.au) · [X / @IAMSamuelRodda](https://x.com/IAMSamuelRodda)
