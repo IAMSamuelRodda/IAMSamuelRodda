@@ -10,7 +10,7 @@
 
 Main focus is the Arc Forge platform: OpenClaw setups, support and distribution.
 
-Want to do this work open source. Migration first, then security checks and data cleanup. A fresh public repo, with the old history kept private.
+Want to do this work open source. Working on a migration. Fresh public repo incoming.
 
 ## Currently into
 
