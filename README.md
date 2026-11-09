@@ -5,6 +5,7 @@
 [![OpenClaw](https://img.shields.io/badge/-OpenClaw-E74C3C?style=flat-square)](https://github.com/openclaw/openclaw)
 [![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/codex)
 [![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)](https://github.com/anthropics/claude-code)
+[![Cursor](https://img.shields.io/badge/-Cursor-14120B?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com)
 
 ## What I’m up to
 
